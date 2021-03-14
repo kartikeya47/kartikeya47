@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeya47&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeya47" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Project**
+- 🔭 I’m currently working on a **Machine Learning Project.**
 
-- 🌱 I’m currently learning **Machine Learning and Python Libraries**
+- 🌱 I’m currently learning **Machine Learning and Python Libraries.**
 
-- 👯 I’m looking to collaborate on **Linkedin**
+- 👯 I’m looking to collaborate on **Linkedin.**
 
-- 🤝 I’m looking for help with **Plotly Library**
+- 🤝 I’m looking for help with **Plotly Library.**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning.**
 
-- 📫 How to reach me **kartike40@gmail.com**
+- 📫 How to reach me: **kartike40@gmail.com**
 
 - ⚡ Fun fact **I don't sleep.**
 
