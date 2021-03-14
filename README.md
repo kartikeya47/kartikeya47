@@ -19,7 +19,7 @@
 <p align="center">
 - 📫 How to reach me: kartike40@gmail.com
 <p align="center">
-- ⚡ Fun fact **I don't sleep.
+- ⚡ Fun fact I don't sleep.
 
 
 <h3 align="center">Connect with me:</h3>
