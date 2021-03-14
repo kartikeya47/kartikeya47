@@ -1,4 +1,4 @@
-<img src = "https://media.giphy.com/media/ceXF4Kb0fh3Rnlc9uY/giphy.gif">
+<img src = "https://media.giphy.com/media/Sd0HW6FCKtsReEJzdI/giphy.gif">
 
 <!--
 **kartikeya47/kartikeya47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
