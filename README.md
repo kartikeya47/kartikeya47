@@ -1,4 +1,6 @@
-<img src = "https://media.giphy.com/media/Sd0HW6FCKtsReEJzdI/giphy.gif">
+<p align="center">
+<img src = "https://media.giphy.com/media/Sd0HW6FCKtsReEJzdI/giphy.gif" width="700">
+</p>
 
 <h1 align="center">Hi 👋, I'm Kartikeya Rawat</h1>
 <h3 align="center">A Machine Learning Enthusiast from India</h3>
