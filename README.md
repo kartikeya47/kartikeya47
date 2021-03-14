@@ -17,8 +17,6 @@
 <p align="center">
 - 💬 Ask me about Machine Learning.
 <p align="center">
-- 📫 How to reach me: kartike40@gmail.com
-<p align="center">
 - ⚡ Fun fact I don't sleep.
 
 
