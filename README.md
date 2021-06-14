@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Kartikeya Rawat.</h1>
 <h3>A passionate Machine Learning Enthusiast from India.</h3>
 
-Website: bit.ly/3wm9jy5
+<a href="bit.ly/3wm9jy5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kartikeya-rawat-5a38181b3" height="30" width="40" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeya47&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeya47" /> </p>
 
