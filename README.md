@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **kartike40@gmail.com**
 
-- ⚡ Fun fact **I don't sleep ;)**
+- ⚡ Fun fact: **I don't sleep ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 <a href="https://kaggle.com/kartikeya47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartikeya47" height="30" width="40" /></a>
 <a href="https://instagram.com/kartikeyarawat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikeyarawat_" height="30" width="40" /></a>
 <a href="https://medium.com/@kartike47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kartike47" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikeya47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikeya47" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kartikeya47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikeyarawat_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
