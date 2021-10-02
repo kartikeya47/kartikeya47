@@ -1,4 +1,4 @@
-<img align="right" src = "https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" width="400">
+<img align="right" src = "https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" width="350">
 <h1 align="left">Hi 👋, I'm Kartikeya Rawat</h1>
 <h3 align="left">A passionate Machine Learning and App Development Enthusiast from India.</h3>
 
