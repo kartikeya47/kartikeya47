@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kartikeya47.github.io/My_Portfolio/](https://kartikeya47.github.io/My_Portfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71](https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71)
+- 📝 I write articles on [https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71](https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71)
 
 - 💬 Ask me about **Machine Learning and Deep Learning.**
 
