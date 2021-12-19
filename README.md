@@ -6,17 +6,11 @@
 
 - 🔭 I’m currently working on **a Machine Learning Project.**
 
-- 🌱 I’m currently learning **Android App Development.**
-
 - 👯 I’m looking to collaborate on **Linkedin.**
-
-- 🤝 I’m looking for help with **Deep Learning Techniques.**
 
 - 👨‍💻 All of my projects are available at [https://kartikeya47.github.io/My_Portfolio/](https://kartikeya47.github.io/My_Portfolio/)
 
 - 📝 I write articles on [https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71](https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71)
-
-- 💬 Ask me about **Machine Learning and Deep Learning.**
 
 - 📫 How to reach me **kartike40@gmail.com**
 
