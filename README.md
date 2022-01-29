@@ -1,6 +1,6 @@
 <img align="right" src = "https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="400">
 <h1 align="left">Hi 👋, I'm Kartikeya Rawat</h1>
-<h3 align="left">A passionate Machine Learning and App Development Enthusiast from India.</h3>
+<h3 align="left">A passionate Machine Learning Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeya47&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeya47" /> </p>
 
