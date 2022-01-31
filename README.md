@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Linkedin.**
 
-- 👨‍💻 My Portfolio Website is at [https://kartikeya47.github.io/My_Portfolio/](https://kartikeya47.github.io/My_Portfolio/)
+- 👨‍💻 My Portfolio Website is at [https://kartikeya-portfolio.herokuapp.com/](https://kartikeya-portfolio.herokuapp.com/)
 
 - 📝 I write articles on [https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71](https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71)
 
