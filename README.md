@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Linkedin.**
 
-- 👨‍💻 My Portfolio Website is at [https://kartikeyarawat.herokuapp.com](https://kartikeyarawat.herokuapp.com)
+- 👨‍💻 My Portfolio Website is at [https://www.kartikeyaportfolio.in](https://www.kartikeyaportfolio.in)
 
 - 📝 I write articles on [https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71](https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71)
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kartikeya-rawat-5a38181b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeya-rawat-5a38181b3" height="30" width="40" /></a>
 <a href="https://kaggle.com/kartikeya47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartikeya47" height="30" width="40" /></a>
-<a href="https://instagram.com/kartikeyarawat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikeyarawat_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kartikeyarawat__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikeyarawat_" height="30" width="40" /></a>
 <a href="https://medium.com/@kartike47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kartike47" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kartikeyarawat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikeyarawat_" height="30" width="40" /></a>
 </p>
