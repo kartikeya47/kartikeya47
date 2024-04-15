@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/kartikeya-rawat-4a1745303)
 
-- 👨‍💻 My Portfolio Website is at [https://www.kartikeyaportfolio.in](https://www.kartikeyaportfolio.in)
+- 👨‍💻 My Portfolio Website is at: [https://www.kartikeyaportfolio.in](https://www.kartikeyaportfolio.in)
 
 - 📝 I write articles on [Medium](https://medium.com/@kartike47)
 
