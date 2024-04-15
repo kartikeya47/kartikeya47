@@ -25,5 +25,4 @@
 <a href="https://kaggle.com/kartikeya47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartikeya47" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kartikeya._r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikeya._r" height="30" width="40" /></a>
 <a href="https://medium.com/@kartike47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kartike47" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikeyarawat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikeyarawat_" height="30" width="40" /></a>
 </p>
