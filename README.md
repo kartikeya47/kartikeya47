@@ -10,7 +10,7 @@
 
 - 👨‍💻 My Portfolio Website is at [https://www.kartikeyaportfolio.in](https://www.kartikeyaportfolio.in)
 
-- 📝 I write articles on [https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71](https://medium.com/@kartike47/yolo-algorithm-the-laymans-approach-57766a06ec71)
+- 📝 I write articles on [Medium](https://medium.com/@kartike47)
 
 - 📫 How to reach me **kartike40@gmail.com**
 
