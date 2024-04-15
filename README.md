@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeya47&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeya47" /> </p>
 
-- 🔭 I’m currently working on **a Machine Learning Project.**
-
-- 👯 I’m looking to collaborate on **Linkedin.**
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/kartikeya-rawat-4a1745303)
 
 - 👨‍💻 My Portfolio Website is at [https://www.kartikeyaportfolio.in](https://www.kartikeyaportfolio.in)
 
 - 📝 I write articles on [Medium](https://medium.com/@kartike47)
 
-- 📫 How to reach me **kartike40@gmail.com**
+- 📫 Reach me via: **kartike40@gmail.com**
 
 - ⚡ Fun fact: **I don't sleep ;)**
 
